@@ -3,4 +3,4 @@ This is part of the WinLucio Archive. This page has already-setup Virtual Machin
 
 -DETAILS-
 
-There's currently no Virtual Machines for VirtualBox, as they will be coming soon.
+There's currently no Virtual Machines, as they will be coming soon.
